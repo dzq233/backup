@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kaptcha-2.3.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/15-Filter过滤器/代码/tmp/web/lib/kaptcha-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

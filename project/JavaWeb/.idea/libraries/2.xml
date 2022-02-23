@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="笔记2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/12-项目第五阶段-分页/笔记/taglibs-standard-1.2.1-source-release.zip!/" />
+      <root url="jar://$PROJECT_DIR$/资料/12-项目第五阶段-分页/笔记/taglibs-standard-spec-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/12-项目第五阶段-分页/笔记/taglibs-standard-impl-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

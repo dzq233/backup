@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/资料/05-XML &amp; Tomcat/代码/05_web/05_web.iml" filepath="$PROJECT_DIR$/资料/05-XML &amp; Tomcat/代码/05_web/05_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/05-XML &amp; Tomcat/代码/05_xml/05_xml.iml" filepath="$PROJECT_DIR$/资料/05-XML &amp; Tomcat/代码/05_xml/05_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/06-Servlet-1/06-Servlet-1.iml" filepath="$PROJECT_DIR$/资料/06-Servlet-1/06-Servlet-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/07-Servlet-2/代码/07_servlet/07_servlet.iml" filepath="$PROJECT_DIR$/资料/07-Servlet-2/代码/07_servlet/07_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/08-jsp/08-jsp.iml" filepath="$PROJECT_DIR$/资料/08-jsp/08-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/09-EL表达式&amp;JSTL标签库/09-EL表达式&amp;JSTL标签库.iml" filepath="$PROJECT_DIR$/资料/09-EL表达式&amp;JSTL标签库/09-EL表达式&amp;JSTL标签库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/10-项目第三阶段/代码/09_EL_JSTL/09_EL_JSTL.iml" filepath="$PROJECT_DIR$/资料/10-项目第三阶段/代码/09_EL_JSTL/09_EL_JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/11-项目第五阶段-图书模块/11-项目第五阶段-图书模块.iml" filepath="$PROJECT_DIR$/资料/11-项目第五阶段-图书模块/11-项目第五阶段-图书模块.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/12-项目第五阶段-分页/12-项目第五阶段-分页.iml" filepath="$PROJECT_DIR$/资料/12-项目第五阶段-分页/12-项目第五阶段-分页.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/13-cookie和session/13-cookie和session.iml" filepath="$PROJECT_DIR$/资料/13-cookie和session/13-cookie和session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/13-cookie和session/代码/13_cookie_session/13_cookie_session.iml" filepath="$PROJECT_DIR$/资料/13-cookie和session/代码/13_cookie_session/13_cookie_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/14-项目第六、七阶段/14-项目第六、七阶段.iml" filepath="$PROJECT_DIR$/资料/14-项目第六、七阶段/14-项目第六、七阶段.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/15-Filter过滤器/15-Filter过滤器.iml" filepath="$PROJECT_DIR$/资料/15-Filter过滤器/15-Filter过滤器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/16-JSON和Ajax请求/16-JSON和Ajax请求.iml" filepath="$PROJECT_DIR$/资料/16-JSON和Ajax请求/16-JSON和Ajax请求.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/16-JSON和Ajax请求/代码/16_json_ajax_i18n/16_json_ajax_i18n.iml" filepath="$PROJECT_DIR$/资料/16-JSON和Ajax请求/代码/16_json_ajax_i18n/16_json_ajax_i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWeb.iml" filepath="$PROJECT_DIR$/.idea/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/07-Servlet-2/代码/book/book.iml" filepath="$PROJECT_DIR$/资料/07-Servlet-2/代码/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/15-Filter过滤器/代码/book/book1.iml" filepath="$PROJECT_DIR$/资料/15-Filter过滤器/代码/book/book1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/16-JSON和Ajax请求/代码/book/book2.iml" filepath="$PROJECT_DIR$/资料/16-JSON和Ajax请求/代码/book/book2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/book3.iml" filepath="$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/book3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/13-cookie和session/代码/book/book4.iml" filepath="$PROJECT_DIR$/资料/13-cookie和session/代码/book/book4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/dom4j-1.6.1/docs/docs.iml" filepath="$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/dom4j-1.6.1/docs/docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/dom4j-1.6.1/src/dom4j-1.6.1.iml" filepath="$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/dom4j-1.6.1/src/dom4j-1.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/dom4j-1.6.1/xdocs/xdocs.iml" filepath="$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/dom4j-1.6.1/xdocs/xdocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/13-cookie和session/代码/tmp/代码.iml" filepath="$PROJECT_DIR$/资料/13-cookie和session/代码/tmp/代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/15-Filter过滤器/代码/tmp/代码1.iml" filepath="$PROJECT_DIR$/资料/15-Filter过滤器/代码/tmp/代码1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/笔记.iml" filepath="$PROJECT_DIR$/资料/05-XML &amp; Tomcat/笔记/笔记.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/commons-dbutils-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/druid-1.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/10-项目第三阶段/代码/book/web/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

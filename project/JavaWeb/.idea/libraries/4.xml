@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="笔记4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/16-JSON和Ajax请求/笔记/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/16-JSON和Ajax请求/笔记/taglibs-standard-spec-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/资料/16-JSON和Ajax请求/笔记/taglibs-standard-impl-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

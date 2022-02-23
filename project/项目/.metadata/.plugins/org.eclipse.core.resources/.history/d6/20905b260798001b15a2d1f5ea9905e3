@@ -1,0 +1,5 @@
+package review;
+
+public class SonTest1 extends Test2 {
+
+}

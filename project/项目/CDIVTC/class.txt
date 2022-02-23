@@ -1,0 +1,2 @@
+className = chapter11.Student
+mName = eat

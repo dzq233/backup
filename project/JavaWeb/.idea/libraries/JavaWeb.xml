@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaWeb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaWeb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="资料">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day3-tomcat-servlet/资料/apache-tomcat-8.0.42-windows-x64(1).zip!/" />
+      <root url="jar://$PROJECT_DIR$/Day3-tomcat-servlet/资料/apache-tomcat-8.0.42-windows-x64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

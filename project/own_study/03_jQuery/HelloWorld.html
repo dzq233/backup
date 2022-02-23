@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#submit_btn").click(function () {
+                $("#a").hide();
+                return false;
+            });
+        });
+
+    </script>
+<body>
+<a href="javascript:;" id="a">sdfasdfs</a>
+<form method="post">
+    <input id="submit_btn" type="submit" value="submit">
+</form>
+</body>
+</html>

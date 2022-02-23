@@ -1,0 +1,9 @@
+package review;
+
+public class TestDemo2 {
+	public static void main(String[] args) {
+		Test2 t1 = new SonTest();
+		t1.eat();
+	}
+
+}

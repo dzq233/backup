@@ -1,0 +1,8 @@
+package review;
+
+class Test2 {
+	public void eat() {
+		System.out.println("³Ô·¹");
+	}
+
+}

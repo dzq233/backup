@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>iframe.html</title>
+</head>
+<body>
+我是一个单独的完整的页面<br><br/>
+<!--iframe标签可以在页面上开辟一个小区域显示一个单独的页面
+iframe和a标签组合使用的步骤：
+1.在iframe标签中使用name属性定义一个名称
+2.在a标签的target属性上设置iframe的name属性值
+-->
+<iframe src="hello.html" width="500" height="400" name="abc"/>
+</iframe>
+<br/>
+<br/>
+<ul>
+    <li><a href="Table.html" target="abc">Table</a></li>
+    <li><a href="表格跨行跨列.html" target="abc">表格跨行跨列</a></li>
+    <li><a href="hello.html" target="abc">hello</a></li>
+</ul>
+</body>
+</html>
